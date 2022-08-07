@@ -1,4 +1,4 @@
-# Dashboard of Annual Preseumed and Confirmed Malaria Cases
+# Dashboard of Annual Presumed and Confirmed Malaria Cases
 
 This app requires panel, which can be installed by typing
 `pip3 install panel` 
