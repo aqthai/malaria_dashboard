@@ -11,12 +11,16 @@ then install dependencies with
 
 ## malaria_rates.ipynb
 This program opens with
-`panel serve malaria_rates.ipynb`
+`panel serve index.ipynb`
 
 When done, deactivate the venv with 
 `deactivate`
 or
 `Scripts\deactivate`
 
-#### The information is from https://www.who.int/data/gho/data/indicators/indicator-details/GHO/total-number-of-malaria-cases-presumed-confirmed-cases
-#### It's purpose is to inform health agencies.  This information can alarm viewers, as it did for me.  Millions of malaria cases are reported annually and the count increases with time.  This counters my presemptions of healthcare evolving with time.  Even with advancing technology, other countries continue to suffer.  I became curious after reading _The Malaria Capiliaries_ by Robert S. Desowitz six years after passing an college biology class without reading it.  
+
+#### An alarming millions of malaria cases are reported annually and counting.  This interactive dashboard maps cases in the central region with time.  My inspiration for picking this dataset came from reading _The Malaria Capiliaries_ by Robert S. Desowitz.
+
+![Preview](preview.PNG)
+
+#### Resource https://www.who.int/data/gho/data/indicators/indicator-details/GHO/total-number-of-malaria-cases-presumed-confirmed-cases
